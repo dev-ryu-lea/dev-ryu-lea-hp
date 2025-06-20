@@ -1,4 +1,4 @@
-```<style>
+<style>
  body {
   background: lightcyan;
   width: 800px;
@@ -108,4 +108,3 @@ Duplicated footnote reference[^second].
  and multiple paragraphs.
 [^second]: Footnote text.
 
-```
